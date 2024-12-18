@@ -82,6 +82,6 @@ As a solo project:
 - Wrote and maintained project documentation
 - Managed version control and codebase organization
 
-GitHub Repository: [Link to your repository]
+
 
 
